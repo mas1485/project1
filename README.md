@@ -4,7 +4,7 @@ Welcome!
 
 This is my first website created for the purposes of my submission for project 1 of the course.
 
-In this project I have used only HTML and CSS, I had considered going ahead to learn JavaScript (and potentially other systems) for better functionality for the project but I decided that it would be better to use only HTML and CSS to showcase my proficiency in these systems. Making it fairer and easier to mark.
+In this project I have used only HTML and CSS, I had considered going ahead to learn JavaScript (and potentially other systems) for better functionality for the project but I decided that it would be better to use only HTML and CSS to showcase my proficiency in these systems, making it fairer and easier to mark.
 
 For my first project I had considered many different ideas, including a website for a local business, however as the website would have limitations, such as not using JavaScript for functionality, and that there was a practical gap between the online gateway for payment that this would offer a sub-par website for the business.
 
